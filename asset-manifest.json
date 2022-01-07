@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/todoIist-project/static/css/main.bb649649.css",
+    "main.js": "/github.io/todoIist-project/static/js/main.987a37af.js",
+    "static/js/787.b8aa5642.chunk.js": "/github.io/todoIist-project/static/js/787.b8aa5642.chunk.js",
+    "index.html": "/github.io/todoIist-project/index.html",
+    "main.bb649649.css.map": "/github.io/todoIist-project/static/css/main.bb649649.css.map",
+    "main.987a37af.js.map": "/github.io/todoIist-project/static/js/main.987a37af.js.map",
+    "787.b8aa5642.chunk.js.map": "/github.io/todoIist-project/static/js/787.b8aa5642.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb649649.css",
+    "static/js/main.987a37af.js"
+  ]
+}
